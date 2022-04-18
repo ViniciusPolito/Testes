@@ -1,0 +1,18 @@
+login_e_senha_incorretos:
+  email: "vinny4@stefanini.io"
+  senha: "senha_errada"
+login_incorreto:
+  email: "vinny4@stefanini.io"
+  senha: "senha_certa"
+senha_incorreta:
+  email: "barpo@stefanini.io"
+  senha: "senha_errada"
+login_vazio:
+  email: ""
+  senha: "senha_certa"
+senha_vazia:
+  email: "vinny4@stefanini.io"
+  senha: ""
+login_senha_vazios:
+  email: ""
+  senha: ""
