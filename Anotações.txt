@@ -1,1 +1,0 @@
-#Bundle é o gerenciador de pacotes do ruby

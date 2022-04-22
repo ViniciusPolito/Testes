@@ -7,7 +7,7 @@ Before do
     @login_page = LoginPage.new
 end
 
-After do |scenario| 
+After do |scenario|
     if scenario.failed?
         page.save_screenshot('log/cenario_falhou.png')
     end
